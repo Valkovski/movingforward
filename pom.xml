@@ -83,5 +83,10 @@
           <artifactId>cucumber-java8</artifactId>
           <version>1.2.5</version>
       </dependency>
+      <dependency>
+          <groupId>mysql</groupId>
+          <artifactId>mysql-connector-java</artifactId>
+          <version>8.0.11</version>
+      </dependency>
   </dependencies>
 </project>
